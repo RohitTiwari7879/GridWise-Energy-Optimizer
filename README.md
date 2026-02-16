@@ -1,6 +1,3 @@
-# GridWise-Energy-Optimizer
-End-to-End Energy Analytics project using SQL, Power BI, and IEX Market Data.
-
 # ⚡ GridWise: Energy Optimizer ⚡
 
 > **An End-to-End Data Analytics project correlating IEX market pricing with smart home consumption to drive financial savings.**
