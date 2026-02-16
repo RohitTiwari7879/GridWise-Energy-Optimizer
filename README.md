@@ -1,3 +1,15 @@
+---
+
+## 🖼️ Dashboard Preview & Live Link
+
+### 🔗 [Click Here to View Live Interactive Dashboard](https://app.powerbi.com/view?r=eyJrIjoiMmMyOGM1ZDktZDY5Ni00MDExLWFmNWUtYmU4NTg5ZDRiN2ZmIiwidCI6IjgzY2U2OTI0LTViZjctNDE3ZS05YWZjLWMxOWQ4YjZkYzAwOCJ9)
+
+<p align="center">
+  <img src="./Gridewise%20screenshot/Screenshot%20(196).png" width="850" title="GridWise Dashboard Preview">
+</p>
+
+> **Note:** For the best experience, use the Live Link above to interact with the slicers and filters.
+
 # ⚡ GridWise: Energy Optimizer ⚡
 
 > **An End-to-End Data Analytics project correlating IEX market pricing with smart home consumption to drive financial savings.**
