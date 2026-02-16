@@ -1,10 +1,6 @@
 # GridWise-Energy-Optimizer
 End-to-End Energy Analytics project using SQL, Power BI, and IEX Market Data.
 
-![GridWise Dashboard](./Gridewise-screenshot/Image1.png)
-![GridWise Dashboard](./Gridewise-screenshot/Image2.png)
-![GridWise Dashboard](./Gridewise-screenshot/Image3.png)
-
 # ⚡ GridWise: Energy Optimizer ⚡
 
 > **An End-to-End Data Analytics project correlating IEX market pricing with smart home consumption to drive financial savings.**
@@ -45,7 +41,9 @@ GridWise is a data-driven solution designed to bridge the gap between volatile e
 ---
 
 ## 🖼️ Dashboard Preview
-![GridWise Dashboard](./Gridewise%20screenshot/Screenshot%20(196).png)
+![GridWise Dashboard](./Gridewise-screenshot/Image1.png)
+![GridWise Dashboard](./Gridewise-screenshot/Image2.png)
+![GridWise Dashboard](./Gridewise-screenshot/Image3.png)
 
 ---
 
